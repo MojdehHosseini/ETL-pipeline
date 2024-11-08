@@ -1,0 +1,5 @@
+[2024-09-17 10:09:37,930] INFO [Broker id=1] Transitioning 2 partition(s) to local leaders. (state.change.logger)
+[2024-09-17 10:09:37,932] INFO [Broker id=1] Creating new partition bankbranch-1 with topic id Mnonn6QbQnGF79TflnEjyw. (state.change.logger)
+[2024-09-17 10:09:37,962] INFO [Broker id=1] Leader bankbranch-1 with topic id Some(Mnonn6QbQnGF79TflnEjyw) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)
+[2024-09-17 10:09:37,971] INFO [Broker id=1] Creating new partition bankbranch-0 with topic id Mnonn6QbQnGF79TflnEjyw. (state.change.logger)
+[2024-09-17 10:09:37,978] INFO [Broker id=1] Leader bankbranch-0 with topic id Some(Mnonn6QbQnGF79TflnEjyw) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)
